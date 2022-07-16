@@ -1,10 +1,13 @@
 # Projetos-Basicos-em-Arduino
 
-Repositório dedicado a projetos em linguagem C/ C++ com aplicação em Arduino
+Repositório dedicado a projetos em linguagem C/ C++ com aplicação em Arduino.
 
-Arduino e uma plataforma de prototipagem eletrônica de hardware livre, projetada com um microcontrolador com suporte de entradas/saídas
-Todos os projetos desta pasta são aplicáveis em Arduino do tipo nano, mini, uno, mega e duo ao adaptar os projetos em quaisquer Arduino o usuário deve se atentar somente a pinagem de entrada ou saída fazendo alteração do código somente do número do pino ao qual pretende usar.
-projetos também podem ser aplicáveis na plataforma de prototipagem eletrônica da Espressif como os modelos Esp8266 e Esp32 e NodeMCU.
+![Arduino](https://user-images.githubusercontent.com/71226047/179369647-f207b81a-3c7f-4231-b391-b57d5d192722.png)
+
+
+Arduino e uma plataforma de prototipagem eletrônica de hardware livre, projetada com um microcontrolador com suporte de entradas/saídas.
+Todos os projetos desta pasta são aplicáveis em Arduino do tipo nano, mini, uno, mega e duo ao adaptar os projetos em quaisquer Arduino o usuário deve se atentar somente a pinagem de entrada ou saída fazendo alteração do código somente do número do pino ao qual usará.
+Projetos também podem ser aplicáveis na plataforma de prototipagem eletrônica da Espressif como os modelos Esp8266 e Esp32 e NodeMCU.
 
 
 Tecnologias utilizadas 
@@ -65,3 +68,12 @@ Lista de Projetos
 ▸ Semáforo Interativo (Projeto 4)
 
     ▾ Desenvolvimento de uma réplica de um semáforo.
+    
+    
+    
+    ______________________________________________________________________________________________________________________________________________________________
+# Atualizações de Projeto
+
+*Atualização* 1.01 :
+> Adicionada imagem ao Readme e correções gramaticais.
+
