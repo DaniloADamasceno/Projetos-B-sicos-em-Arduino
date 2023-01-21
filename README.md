@@ -1,6 +1,9 @@
 # Projetos-Basicos-em-Arduino
 
-Repositório dedicado a projetos em linguagem C/ C++ com aplicação em Arduino.
+<p>Este é um repositório dedicado a projetos de programação em C/C++ com aplicação em Arduino.</p>
+<p>Aqui você encontrará projetos e exemplos de códigos relacionados ao uso da plataforma Arduino para desenvolver projetos eletrônicos e de automação.</p>
+<p>Os projetos incluem exemplos de uso de sensores, atuadores, comunicação serial, entre outros. Este repositório é ideal para aqueles que querem aprender a programar em C/C++ e aplicar esses conhecimentos para desenvolver projetos com Arduino.</p>
+<br>
 
 ![Arduino](https://user-images.githubusercontent.com/71226047/179369647-f207b81a-3c7f-4231-b391-b57d5d192722.png)
 
