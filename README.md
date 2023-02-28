@@ -1,6 +1,6 @@
 # Projetos-Basicos-em-Arduino
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Projetos-Basicos-em-Arduino=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Projetos-Basicos-em-Arduino?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Projetos-Basicos-em-Arduino?style=for-the-badge)
 
 <p>Este é um repositório dedicado a projetos de programação em C/C++ com aplicação em Arduino.</p>
